@@ -3,3 +3,4 @@ hello-masteraaaaaa:wq
 world
 你好dev
 这是github远程写的代码
+别名
